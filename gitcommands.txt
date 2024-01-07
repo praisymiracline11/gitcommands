@@ -1,10 +1,11 @@
                         GIT COMMANDS
 
-Git clone command 
-Git commit-m
+Git clone "repository link" 
+Git commit -m "comments"
 Git push
 Git fetch
 Git pull
-Git add.
-Git status 
+Git add .
+Git status
+Git branch 
 
