@@ -1,0 +1,10 @@
+                        GIT COMMANDS
+
+Git clone command 
+Git commit-m
+Git push
+Git fetch
+Git pull
+Git add.
+Git status 
+
